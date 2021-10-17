@@ -2,6 +2,7 @@
 
 
 Machine learning | Data science | Data analytics 
+
 I have a predilection for design and enjoy working on projects where approaching design and development as co-dependent processes can lead to smarter solutions and a better overall product experience for fellow humans. If you have an exciting project in mind, or just wanna chat, get in touch with me here :)
 
 
