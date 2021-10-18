@@ -7,6 +7,7 @@ I have a predilection for design and enjoy working on projects where approaching
 
 
 [linkedin](https://www.linkedin.com/in/praphul-k-o/)
+[Tableau](https://public.tableau.com/app/profile/praphul.kenkere.omkarmurthy)
 
 🔭 I’m currently working on - Data Science & Machine Learning.
 
