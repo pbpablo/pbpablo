@@ -14,6 +14,6 @@ I have a predilection for design and enjoy working on projects where approaching
 
 🌱 I’m currently learning - Deep learning, NLP and Computer Vision.
 
-👯 I’ve recently worked with start-ups like Lykiq Labs Pvt Ltd and Abvin Ventures LLP.
+👯 Recent work experience: Amazon, Lykiq Labs Pvt Ltd and Abvin Ventures LLP.
 
 😄 Words that describe me - Curious, erduite and esoteric.
